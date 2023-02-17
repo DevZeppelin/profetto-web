@@ -93,7 +93,7 @@ export default function Home() {
           </Link>
 
           <a
-            href="https:citroaventura.ar"
+            href="https://citroaventura.ar"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
