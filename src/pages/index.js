@@ -44,8 +44,8 @@ export default function Home() {
           <Image
             /* className={styles.logo} */
             src="/name.png"
-            alt="Next.js Logo"
-            width={400}
+            alt="Pablo Profetto Logo"
+            width={300}
             height={80}
             priority
           />         
