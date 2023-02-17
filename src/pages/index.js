@@ -88,7 +88,7 @@ export default function Home() {
               Músico <span>&gt;</span>
             </h2>
             <p className={inter.className}>
-              "Incubando Prócer" es mi banda, y también tengo muchas microcanciones. ¿Querés saber más? ¡Click!
+              -Incubando Prócer- es mi banda, y también tengo muchas microcanciones. ¿Querés saber más? ¡Click!
             </p>
           </Link>
 
@@ -99,7 +99,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Citroaventura <span>-&gt;</span>
+              Citroaventura <span>&gt;</span>
             </h2>
             <p className={inter.className}>
               Mi Citroen 3CV rodando 30.000 km por el viejo mundo. Entrá a citroaventura.ar y viajalo con nosotros
